@@ -1,0 +1,21 @@
+{
+  "name": "10-oops",
+  "version": "1.0.0",
+  "description": "Build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG File.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "jest": "^29.7.0",
+    "node": "^21.2.0"
+  }
+}
